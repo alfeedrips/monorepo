@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/tenant-rent-to-own-equity",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/tenant-rent-to-own-equity": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/tenant-rent-to-own-equity",
+    "origin"
+  ]
+}
